@@ -31,6 +31,12 @@ export default {
   }
 }
 ```
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNQjVVR" data-user="jsexp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/jsexp/pen/oNQjVVR">
+  Untitled</a> by jsexp (<a href="https://codepen.io/jsexp">@jsexp</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<ScriptElement />
 
 ## Custom Containers
 
